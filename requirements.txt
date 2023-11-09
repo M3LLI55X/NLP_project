@@ -13,7 +13,7 @@ pandas
 transformers
 datasets
 huggingface_hub
-sklearn
+scikit-learn
 lightgbm
 xgboost
 wordcloud
