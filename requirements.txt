@@ -1,0 +1,19 @@
+# pip3 install -r requirements.txt
+tensorflow
+torch 
+torchvision 
+torchaudio
+ipython
+nbformat
+rich
+nltk
+matplotlib
+seaborn
+pandas
+transformers
+datasets
+huggingface_hub
+sklearn
+lightgbm
+xgboost
+wordcloud
